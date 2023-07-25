@@ -28,8 +28,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img ![image](https://github.com/ab2315/osticket-prereqs/assets/139497276/b952f9dd-8b09-4d90-98bf-13fffca65ad4)
+<img 
 
+![image](https://github.com/ab2315/osticket-prereqs/assets/139497276/8fb196e0-4129-4639-bd8f-beb19842ecb1)
 
 
 
@@ -37,22 +38,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+FIrst of you have to make sure that on microsft azure you have a tenant, subscription, resource froup, virtual machine and subnet. After that you want to install and enable IIS in windows with CGI and HTTP features 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/ab2315/osticket-prereqs/assets/139497276/92734cc6-8fa4-4ae9-89f8-dc69804c5144)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and intall PHP manager, download PHP download and install VC_redst and You want to download mysql do a typical setup launch configuration wizard do standard configuration 
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/ab2315/osticket-prereqs/assets/139497276/6e6e0042-ddf9-4028-bdc9-982ffe776115)
+
+</p>
+<p>
+Lastly you want to download and install HeidiSQl open it creat an new session root/Password1 connect to the session create a database called OSticket and continue setting up osTIcket in the browser then browse to your helpdesk log in page 
 </p>
 <br />
